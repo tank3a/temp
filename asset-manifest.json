@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movieReactApp/static/css/main.ad38c70a.css",
+    "main.js": "/movieReactApp/static/js/main.ece425b0.js",
+    "static/media/Infinity-2.6s-321px.gif": "/movieReactApp/static/media/Infinity-2.6s-321px.449aa9f916e7bac44ee9.gif",
+    "index.html": "/movieReactApp/index.html",
+    "main.ad38c70a.css.map": "/movieReactApp/static/css/main.ad38c70a.css.map",
+    "main.ece425b0.js.map": "/movieReactApp/static/js/main.ece425b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad38c70a.css",
+    "static/js/main.ece425b0.js"
+  ]
+}
